@@ -1,3 +1,2 @@
 # statistics
-확률과 통계
-#https://kvyft1234.github.io/statistics/math.html
+확률과 통계 소스 파일들
